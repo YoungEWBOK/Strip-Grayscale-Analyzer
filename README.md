@@ -12,7 +12,7 @@
 
 ## Python及必要库安装
 
-**开发时使用的是python 3.9版本，以下是程序所用到的库**
+**开发时使用的是 Python 3.9 版本，以下是程序所用到的库**
 
 ```bash
 pip install opencv-python numpy scipy Pillow tifffile openpyxl matplotlib
